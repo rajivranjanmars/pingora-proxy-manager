@@ -140,3 +140,9 @@ Please check our **[Contributing Guide](https://github.com/DDULDDUCK/pingora-pro
 ## 📄 License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+
+## Author
+
+Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+
+This repository is a fork; existing upstream author credits and license terms remain applicable.
