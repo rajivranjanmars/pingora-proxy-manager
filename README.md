@@ -143,6 +143,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ## Author
 
-Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+Fork author and maintainer: [Rajiv Ranjan](https://rajivranjan.in).
 
 This repository is a fork; existing upstream author credits and license terms remain applicable.
